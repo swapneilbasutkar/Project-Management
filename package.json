@@ -1,0 +1,29 @@
+{
+  "name": "project-management",
+  "version": "1.0.0",
+  "description": "A project management application",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swapneilbasutkar/Project-Management.git"
+  },
+  "keywords": [
+    "backend",
+    "API",
+    "creation"
+  ],
+  "author": "Swapneil Basutkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swapneilbasutkar/Project-Management/issues"
+  },
+  "homepage": "https://github.com/swapneilbasutkar/Project-Management#readme",
+  "devDependencies": {
+    "prettier": "3.6.2"
+  }
+}
